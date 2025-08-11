@@ -1,11 +1,13 @@
 # Fast ubuntu SetUp
 
 
-# one line install
+# one liner
 
-<pre> ```bash curl -L -o F https://raw.githubusercontent.com/NVainer/Production/main/Fast && chmod +x ./Fast && ./Fast ``` </pre>
-
+```bash
+curl -L -o F https://raw.githubusercontent.com/NVainer/Production/main/Fast && chmod +x ./Fast && ./Fast
+```
 OR
 
+```bash
 wget -O F https://raw.githubusercontent.com/NVainer/Production/main/Fast && chmod +x ./Fast && ./Fast
-
+```
