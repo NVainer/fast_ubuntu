@@ -3,7 +3,7 @@
 
 # one line install
 
-curl -L -o F https://raw.githubusercontent.com/NVainer/Production/main/Fast && chmod +x ./Fast && ./Fast
+<pre> ```bash curl -L -o F https://raw.githubusercontent.com/NVainer/Production/main/Fast && chmod +x ./Fast && ./Fast ``` </pre>
 
 OR
 
