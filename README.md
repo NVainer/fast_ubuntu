@@ -10,12 +10,12 @@
 # one liner
 
 ```bash
-curl -L -o Fast https://raw.githubusercontent.com/NVainer/Production/main/Fast && chmod +x ./Fast && ./Fast
+curl -L -o Fast https://raw.githubusercontent.com/NVainer/fast_ubuntu/main/Fast && chmod +x ./Fast && ./Fast
 ```
 OR
 
 ```bash
-wget -O Fast https://raw.githubusercontent.com/NVainer/Production/main/Fast && chmod +x ./Fast && ./Fast
+wget -O Fast https://raw.githubusercontent.com/NVainer/fast_ubuntu/main/Fast && chmod +x ./Fast && ./Fast
 ```
 
 <br><br>
